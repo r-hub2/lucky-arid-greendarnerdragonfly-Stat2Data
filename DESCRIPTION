@@ -27,7 +27,7 @@ BugReports: https://github.com/statmanrobin/Stat2Data/issues
 Encoding: UTF-8
 Config/roxygen2/version: 8.1.1
 NeedsCompilation: no
-Packaged: 2026-11-08 21:07:26 UTC; rlock
+Packaged: 2026-11-08 21:36:54 UTC; rlock
 Author: Robin Lock [aut, cre],
   Ann Cannon [aut],
   Bradley Hartlaub [aut],
